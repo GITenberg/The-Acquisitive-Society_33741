@@ -1,0 +1,31 @@
+_repo: The-Acquisitive-Society_33741
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Tawney, R. H. (Richard Henry)
+    alias: Tawney, Richard Henry
+    birthdate: 1880
+    deathdate: 1962
+    gutenberg_agent_id: '40560'
+    url: http://www.gutenberg.org/2009/agents/40560
+    wikipedia: http://en.wikipedia.org/wiki/R._H._Tawney
+description: ''
+gutenberg_issued: '2010-09-16'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '33741'
+  lccn: '20021421'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Social problems'
+- !lcsh 'Economics'
+- !lcsh 'Industries'
+- !lcc 'HB'
+title: The Acquisitive Society
+url: http://www.gutenberg.org/ebooks/33741
